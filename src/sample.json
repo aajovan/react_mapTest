@@ -1,0 +1,127 @@
+{
+    "logoSrc": "https://images.ctfassets.net/oggad6svuzkv/1hrNgOwM2oGO2xLOv4xQ2D/f187f552a8ff9b528550ea0635d6f093/P_G_Logo_RGB.svg",
+    "stranice": [
+        {
+            "naziv": "Mapa 1",
+            "podaci": {
+                "slider": [
+                    {
+                        "main": "+6%",
+                        "title": "organic sales growth",
+                        "imgSrc": "https://images.all-free-download.com/images/graphicthumb/grass_sky_picture_4_165866.jpg"
+                    },
+                    {
+                        "main": "+13%",
+                        "title": "organic sales growth",
+                        "imgSrc": "https://images.all-free-download.com/images/graphicthumb/grass_sky_picture_4_165866.jpg"
+                    },
+                    {
+                        "main": "+15%",
+                        "title": "organic sales growth",
+                        "imgSrc": "https://images.all-free-download.com/images/graphicthumb/grass_sky_picture_4_165866.jpg"
+                    },
+                    {
+                        "main": "+38%",
+                        "title": "organic sales growth",
+                        "imgSrc": "https://images.all-free-download.com/images/graphicthumb/grass_sky_picture_4_165866.jpg"
+                    },
+                    {
+                        "main": "+59%",
+                        "title": "organic sales growth",
+                        "imgSrc": "https://images.all-free-download.com/images/graphicthumb/grass_sky_picture_4_165866.jpg"
+                    },
+                    {
+                        "main": "+18%",
+                        "title": "organic sales growth",
+                        "imgSrc": "https://images.all-free-download.com/images/graphicthumb/grass_sky_picture_4_165866.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "naziv": "Mapa 2",
+            "podaci1": {
+                "naslov": "Ovo je nekakav naslov",
+                "paragraf": [
+                    {
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut mi risus, fermentum a libero in, tempor ultricies magna. Nam augue mi, dignissim a sagittis quis, facilisis et magna."
+                    },
+                    {
+                        "text": "Pellentesque placerat scelerisque enim nec ultricies. Sed vestibulum, nibh vel ultricies facilisis, risus sapien consectetur augue, at condimentum arcu risus sit amet augue. Curabitur porttitor justo consectetur, aliquet elit non, feugiat risus. Duis sit amet gravida dolor, ultricies feugiat augue. Proin tristique, tellus sed ornare fringilla, ex eros eleifend augue, at maximus purus purus quis sapien."
+                    }
+                ],
+                "slike": [
+                    {
+                        "src": "https://images.ctfassets.net/oggad6svuzkv/31xAvy6pNljGA0mptkL4W4/378f0fd156d23cad8694d5ddfbe56d43/Be_cruelty_free.jpg"
+                    }
+                ]
+            },
+            "podaci2": {
+                "odlomci": [
+                    {
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut mi risus, fermentum a libero in, tempor ultricies magna.",
+                        "imgSrc": "https://images.ctfassets.net/oggad6svuzkv/1hrNgOwM2oGO2xLOv4xQ2D/f187f552a8ff9b528550ea0635d6f093/P_G_Logo_RGB.svg"
+                    },
+                    {
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut mi risus, fermentum a libero in, tempor ultricies magna.",
+                        "imgSrc": "https://images.ctfassets.net/oggad6svuzkv/1hrNgOwM2oGO2xLOv4xQ2D/f187f552a8ff9b528550ea0635d6f093/P_G_Logo_RGB.svg"
+                    },
+                    {
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut mi risus, fermentum a libero in, tempor ultricies magna.",
+                        "imgSrc": "https://images.ctfassets.net/oggad6svuzkv/1hrNgOwM2oGO2xLOv4xQ2D/f187f552a8ff9b528550ea0635d6f093/P_G_Logo_RGB.svg"
+                    }
+                ]
+            }
+        },
+        {
+            "naziv": "Stranica 3",
+            "podaci1": {
+                "naslov": "Ovo je test",
+                "paragraf": [
+                    {
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut mi risus, fermentum a libero in, tempor ultricies magna. Nam augue mi, dignissim a sagittis quis, facilisis et magna."
+                    },
+                    {
+                        "text": "Pellentesque placerat scelerisque enim nec ultricies. Sed vestibulum, nibh vel ultricies facilisis, risus sapien consectetur augue, at condimentum arcu risus sit amet augue. Curabitur porttitor justo consectetur, aliquet elit non, feugiat risus. Duis sit amet gravida dolor, ultricies feugiat augue. Proin tristique, tellus sed ornare fringilla, ex eros eleifend augue, at maximus purus purus quis sapien."
+                    },
+                    {
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut mi risus, fermentum a libero in, tempor ultricies magna. Nam augue mi, dignissim a sagittis quis, facilisis et magna."
+                    }
+                ],
+                "slike": [
+                    {
+                        "src": "https://images.ctfassets.net/oggad6svuzkv/31xAvy6pNljGA0mptkL4W4/378f0fd156d23cad8694d5ddfbe56d43/Be_cruelty_free.jpg"
+                    }
+                ]
+            },
+            "podaci2": {
+                "odlomci": [
+                    {
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut mi risus, fermentum a libero in, tempor ultricies magna.",
+                        "imgSrc": "https://images.ctfassets.net/oggad6svuzkv/1hrNgOwM2oGO2xLOv4xQ2D/f187f552a8ff9b528550ea0635d6f093/P_G_Logo_RGB.svg"
+                    },
+                    {
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut mi risus, fermentum a libero in, tempor ultricies magna.",
+                        "imgSrc": "https://images.ctfassets.net/oggad6svuzkv/1hrNgOwM2oGO2xLOv4xQ2D/f187f552a8ff9b528550ea0635d6f093/P_G_Logo_RGB.svg"
+                    },
+                    {
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut mi risus, fermentum a libero in, tempor ultricies magna.",
+                        "imgSrc": "https://images.ctfassets.net/oggad6svuzkv/1hrNgOwM2oGO2xLOv4xQ2D/f187f552a8ff9b528550ea0635d6f093/P_G_Logo_RGB.svg"
+                    },
+                    {
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut mi risus, fermentum a libero in, tempor ultricies magna.",
+                        "imgSrc": "https://images.ctfassets.net/oggad6svuzkv/1hrNgOwM2oGO2xLOv4xQ2D/f187f552a8ff9b528550ea0635d6f093/P_G_Logo_RGB.svg"
+                    },
+                    {
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut mi risus, fermentum a libero in, tempor ultricies magna.",
+                        "imgSrc": "https://images.ctfassets.net/oggad6svuzkv/1hrNgOwM2oGO2xLOv4xQ2D/f187f552a8ff9b528550ea0635d6f093/P_G_Logo_RGB.svg"
+                    },
+                    {
+                        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut mi risus, fermentum a libero in, tempor ultricies magna.",
+                        "imgSrc": "https://images.ctfassets.net/oggad6svuzkv/1hrNgOwM2oGO2xLOv4xQ2D/f187f552a8ff9b528550ea0635d6f093/P_G_Logo_RGB.svg"
+                    }
+                ]
+            }
+        }
+    ]
+}

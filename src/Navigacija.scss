@@ -1,0 +1,49 @@
+@media (min-width: 992px) {
+  .navbar-brand {
+    transform: translateX(-50%);
+    left: 50%;
+    position: absolute;
+    top: 10px;
+    z-index: 9999;
+  }
+  .navbar {
+    height: 50px;
+  }
+  .ikona {
+    height: 70px;
+    width: 70px;
+  }
+}
+
+@media (max-width: 768px) {
+  .ikona {
+    height: 50px;
+    width: 50px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+  .ikona {
+    height: 50px;
+    width: 50px;
+  }
+}
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+  color: #003da7;
+  font-weight: bold;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+  color: #003da7;
+  font-weight: bold;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #003da7;
+  font-weight: bold;
+}
+
+.navbar {
+  box-shadow: 0 0.125rem 0.625rem rgba(0, 0, 0, 0.2);
+}

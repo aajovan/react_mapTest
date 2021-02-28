@@ -1,0 +1,48 @@
+@import '~leaflet/dist/leaflet.css';
+@import '~react-leaflet-markercluster/dist/styles.min.css';
+
+@media (min-width: 992px) {
+  .content {
+    margin-top: 70px;
+  }
+}
+
+.text-primary {
+  color: #003da7!important;
+  ;
+}
+
+.bg-primary {
+  background-color: #003da7!important;
+  ;
+}
+
+$puple: #9370db;
+$gray: #ededed;
+
+.markercluster-map {
+  height: 90vh;
+}
+
+/* Customize the Clustered Markers */
+.marker-cluster-custom {
+  background: $puple;
+  border: 3px solid $gray;
+  border-radius: 50%;
+  color: $gray;
+  height: 40px;
+  line-height: 37px;
+  text-align: center;
+  width: 40px;
+}
+
+.leaflet-control-attribution, .leaflet-control {
+  display: none;
+}
+.cluster-blue {
+  height: 20px;
+  background-color: #003da7;
+}
+.map {
+  height: 90vh;
+}
